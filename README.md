@@ -7,7 +7,7 @@
 
 <h3> Tech Stack </h3>
 
- Languages, Frameworks and Tools:
+ - Languages, Frameworks and Tools:
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=)
