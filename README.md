@@ -20,6 +20,7 @@
   ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel)
+  ![Teams](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=microsoftteams)
 
 <!--
 **Txitxo04/Txitxo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
