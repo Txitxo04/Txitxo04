@@ -74,5 +74,5 @@ Interested in **backend development**, **software design/architecture**, and pro
 ### 📫 Contact
 
 - Email: **1222015@isep.ipp.pt** | **quico.gomes04@gmail.com**
-- LinkedIn: *([add your link here](https://www.linkedin.com/in/joaquim-gomes-5457172ab/))*
+- LinkedIn: *([https://www.linkedin.com/in/joaquim-gomes-5457172ab/])*
 - GitHub: *(you’re already here, obviously)*
